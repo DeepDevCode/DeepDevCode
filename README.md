@@ -1,5 +1,5 @@
-# 👋 Hi, I’m @DeepDevCode
-Welcome to **DeepDevCode** – *Master the Web, Conquer AI*!
+# 👋 Hi, I’m @Code&Chill
+Welcome to **Code&Chill** – *Master the Web, Conquer AI*!
 
 ## 👀 I’m interested in:
 - Web Development (Front-end & Back-end)
